@@ -1,0 +1,11 @@
+body {margin: 0 40px}
+
+.red {color: red;}
+
+p span {font-weight: 900;}
+
+p:nth-child(odd) {background-color: #dddddd;}
+
+p:not(:last-child) {margin-bottom: 20px;}
+
+.gray {background-color: #dddddd;}
